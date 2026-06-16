@@ -1,317 +1,302 @@
-# 🧠 Derivable Judgement: Statistical Analysis & Hypothesis Testing on Healthcare Data
+# 📊 Derivable Judgement: Statistical Analysis & Hypothesis Testing on Healthcare Data
 
-A complete **Theory + Practical Statistics Project** that applies inferential statistical techniques to a real-world healthcare dataset containing **500 patient records**.
+A complete **Theory + Practical Statistics Project** that applies **Inferential Statistics** and **Hypothesis Testing** techniques to a real-world healthcare dataset containing **500 patient records**.
 
-The project explores key concepts of **Hypothesis Testing, Confidence Intervals, Chi-Square Test, ANOVA, t-Test, Correlation Analysis, Covariance Analysis, Critical Values, and p-value Interpretation** to derive meaningful conclusions from health-related data.
+The project explores statistical concepts including **Hypothesis Testing, Confidence Intervals, Critical Values, p-values, Independent Sample t-Test, Chi-Square Test, ANOVA, Correlation Analysis, and Covariance Analysis** to derive meaningful insights from healthcare data.
 
-All statistical analyses are implemented using **Python (Jupyter Notebook)** and supported with detailed interpretations, visual outputs, and business-style conclusions.
+The entire analysis is implemented using **Python (Jupyter Notebook)** and supported with detailed interpretations, statistical calculations, visualizations, and evidence-based conclusions.
 
 ---
 
 # 📋 Project Details
 
-| Field      | Details                                                      |
-| ---------- | ------------------------------------------------------------ |
-| Title      | Derivable Judgement: Statistical Analysis of Healthcare Data |
-| Duration   | 4–6 Hours                                                    |
-| Type       | Theory + Practical                                           |
-| Domain     | Statistics & Healthcare Analytics                            |
-| Tools Used | Python · Excel · Jupyter Notebook                            |
-| Libraries  | Pandas · NumPy · SciPy · Matplotlib                          |
+| Field | Details |
+|---------|---------|
+| Title | Derivable Judgement: Statistical Analysis & Hypothesis Testing on Healthcare Data |
+| Duration | 4 Hours |
+| Type | Theory + Practical |
+| Domain | Healthcare Analytics |
+| Tools Used | Python · Excel |
+| Libraries | Pandas · NumPy · SciPy · Matplotlib |
 
 ---
 
 # 🎯 Objective
 
-Imagine you are working as a **Healthcare Data Analyst** for a medical research organization.
+Imagine working as a **Healthcare Data Analyst** for a public health research organization.
 
-Your task is to analyze patient health records and apply statistical techniques to answer important questions such as:
+The objective of this project is to analyze healthcare records and apply inferential statistical methods to answer important healthcare questions.
 
-* Does smoking influence diabetes prevalence?
-* Does exercise frequency affect BMI?
-* Are male and female BMI levels significantly different?
-* Do age groups show different disease rates?
-* Is there a relationship between age and BMI?
+The project investigates:
 
-The project demonstrates how statistical methods can transform raw healthcare data into meaningful insights for decision-making.
+- Whether smoking status influences diabetes prevalence.
+- Whether exercise frequency impacts BMI.
+- Whether male and female patients differ significantly in BMI.
+- Whether age groups differ in diabetes prevalence.
+- Whether age and BMI are related.
 
----
-
-# 📂 Project Structure
-
-```text
-Derivable-Judgement/
-│
-├── 📓 Derivable_Judgement.ipynb
-├── 📊 health_records_dataset_500.xlsx
-├── 📄 Statistical_Insights_Report.docx
-├── 📷 images/
-├── 📄 README.md
-│
-└── requirements.txt
-```
+Through statistical testing, the project demonstrates how data-driven decisions can be made using scientific evidence rather than assumptions.
 
 ---
 
-# 🗂️ Dataset Information
+# 🗂️ Project Files
 
-### Dataset Size
+| File | Description |
+|---------|---------|
+| 📓 Derivable_Judgement.ipynb | Complete statistical analysis notebook |
+| 📊 health_records_dataset_500.xlsx | Healthcare dataset containing 500 records |
+| 📄 Derivable_Judgement_Theory.pdf | Theoretical explanations and formulas |
+| 📄 Statistical_Insights_Report.docx | Detailed project interpretations |
+| 📘 README.md | Project documentation |
 
-* 500 Patient Records
-* Healthcare-based synthetic dataset
+---
 
-### Dataset Columns
+# 🧩 Dataset Structure
 
-| Column Name        | Description                     |
-| ------------------ | ------------------------------- |
-| Patient_ID         | Unique Identifier               |
-| Age                | Patient Age                     |
-| Gender             | Male / Female                   |
-| Weight             | Weight (kg)                     |
-| BMI                | Body Mass Index                 |
-| Blood_Pressure     | Blood Pressure Reading          |
-| Smoking_Status     | Smoking Habit                   |
+**AI-Generated Dataset · 500 Records**
+
+| Column Name | Description |
+|------------|-------------|
+| Patient_ID | Unique Patient Identifier |
+| Age | Age of Patient |
+| Gender | Male / Female |
+| Weight | Weight in Kilograms |
+| BMI | Body Mass Index |
+| Blood_Pressure | Blood Pressure Reading |
+| Smoking_Status | Smoker / Non-Smoker |
 | Exercise_Frequency | Daily / Weekly / Rarely / Never |
-| Diabetes           | Yes / No                        |
-| Cholesterol        | Cholesterol Level               |
+| Diabetes | Yes / No |
+| Cholesterol | Cholesterol Level |
 
 ---
 
-# 🛠️ Technologies Used
+# 🛠️ Tools Used
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-FF6B6B?style=for-the-badge&logo=scipy&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-FF6B6B?style=for-the-badge)
 ![Hypothesis_Testing](https://img.shields.io/badge/Hypothesis_Testing-6A5ACD?style=for-the-badge)
 ![ANOVA](https://img.shields.io/badge/ANOVA-FF9800?style=for-the-badge)
 ![Chi_Square](https://img.shields.io/badge/Chi--Square_Test-4CAF50?style=for-the-badge)
 ![T_Test](https://img.shields.io/badge/T--Test-009688?style=for-the-badge)
 ![Correlation](https://img.shields.io/badge/Correlation_Analysis-E91E63?style=for-the-badge)
 
-## Python Libraries
+---
 
-```python
-import pandas as pd
-import numpy as np
+# 🎬 Project Demo
 
-from scipy.stats import (
-    chi2_contingency,
-    chi2,
-    t,
-    f
-)
+[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](YOUR_LINK_HERE)
 
-import matplotlib.pyplot as plt
-```
+📹 Click the badge above to watch the complete project demonstration.
 
 ---
 
-# 📚 Statistical Concepts Covered
+# 📗 Statistical Topics Covered
 
-## 1️⃣ Hypothesis Testing
+---
 
-Formulated and tested statistical hypotheses.
+## 🔬 Q1 — Hypothesis Testing
 
-### Example
+### Research Question
 
-### H₀ (Null Hypothesis)
+Does smoking status influence diabetes prevalence?
 
-Smoking status has no effect on diabetes prevalence.
+### Hypotheses
 
-### H₁ (Alternative Hypothesis)
+**H₀:** Smoking has no effect on diabetes prevalence.
 
-Smoking status affects diabetes prevalence.
+**H₁:** Smoking affects diabetes prevalence.
 
 ### Python Code
 
 ```python
 table = pd.crosstab(
-    df["smoking_status"],
-    df["diabetes"]
+    df["Smoking_Status"],
+    df["Diabetes"]
 )
 
 chi2_stat, p_value, dof, expected = chi2_contingency(table)
 
-print("Chi Square:", chi2_stat)
-print("P Value:", p_value)
+print("Chi-Square =", chi2_stat)
+print("P-Value =", p_value)
 ```
 
-### Result
+### Results
 
-| Metric     | Value |
-| ---------- | ----- |
-| Chi-Square | 0.71  |
-| p-value    | 0.701 |
+| Metric | Value |
+|----------|----------|
+| Chi-Square Statistic | 0.71 |
+| p-value | 0.701 |
+| Critical Value | 5.99 |
 
-### Insight
+📌 **Interpretation:** The p-value is much greater than 0.05 and the test statistic is below the critical value.
 
-Smoking status and diabetes prevalence were found to be statistically independent in this dataset.
+📌 **Conclusion:** Smoking status and diabetes prevalence are statistically independent.
 
 ---
 
-# 2️⃣ Confidence Intervals
-
-Calculated confidence intervals for:
-
-* Age
-* Weight
-* Blood Pressure
+## 📊 Q2 — Confidence Interval Analysis
 
 ### Formula
 
-[
-CI = \bar{x} \pm z \left( \frac{\sigma}{\sqrt{n}} \right)
-]
+\[
+CI = \bar{x} \pm Z \times \frac{\sigma}{\sqrt{n}}
+\]
+
+### Results
+
+| Variable | 95% Confidence Interval |
+|----------|------------------------|
+| Age | 47.24 – 50.48 |
+| Weight | 79.42 – 83.37 |
+| Blood Pressure | 135.42 – 139.56 |
 
 ### Python Code
 
 ```python
-mean_age = df["age"].mean()
+mean_age = df["Age"].mean()
 
-std_age = df["age"].std()
+std_age = df["Age"].std()
 
 n = len(df)
 
-margin_error = 1.96 * (std_age / np.sqrt(n))
+margin = 1.96 * (std_age / np.sqrt(n))
 
-lower = mean_age - margin_error
-upper = mean_age + margin_error
+lower = mean_age - margin
+upper = mean_age + margin
 ```
 
-### Insight
+📌 **Interpretation:** The intervals provide a likely range for the true population means.
 
-95% confidence intervals provide reliable estimates of population characteristics.
+📌 **Conclusion:** Population estimates are reliable and precise.
 
 ---
 
-# 3️⃣ Critical Value & p-value Analysis
-
-Compared:
-
-* Test Statistic
-* Critical Value
-* p-value
+## 📈 Q3 — Critical Value & p-value
 
 ### Decision Rule
 
 ```text
-If p-value < 0.05
-Reject H₀
+If p-value < 0.05 → Reject H₀
 
-Else
-Accept H₀
+If p-value ≥ 0.05 → Fail to Reject H₀
 ```
 
-### Insight
+### Interpretation
 
-Critical value and p-value approaches lead to the same statistical conclusion.
+Both critical value and p-value approaches produced the same statistical decision.
+
+### Conclusion
+
+Statistical significance decisions remain consistent regardless of approach.
 
 ---
 
-# 4️⃣ Independent Sample t-Test
+## 👨‍⚕️ Q4 — Independent Sample t-Test
 
-Compared BMI between:
+### Objective
 
-* Male Patients
-* Female Patients
+Compare BMI between male and female patients.
 
 ### Formula
 
-[
+\[
 t =
 \frac{\bar{x}_1-\bar{x}_2}
 {\sqrt{\frac{s_1^2}{n_1}+\frac{s_2^2}{n_2}}}
-]
+\]
+
+### Results
+
+| Metric | Value |
+|----------|----------|
+| t-value | 1.67 |
+| p-value | 0.095 |
+| Critical Value | 1.97 |
 
 ### Python Code
 
 ```python
 from scipy.stats import ttest_ind
 
-male = df[df["gender"]=="Male"]["bmi"]
-female = df[df["gender"]=="Female"]["bmi"]
+male = df[df["Gender"]=="Male"]["BMI"]
+female = df[df["Gender"]=="Female"]["BMI"]
 
 t_stat,p = ttest_ind(male,female)
 
 print(t_stat,p)
 ```
 
-### Result
+📌 **Interpretation:** Although males show a slightly higher BMI, the difference is not statistically significant.
 
-| Metric  | Value |
-| ------- | ----- |
-| t-value | 1.67  |
-| p-value | 0.095 |
-
-### Insight
-
-BMI differences between males and females were not statistically significant.
+📌 **Conclusion:** Male and female BMI distributions are statistically similar.
 
 ---
 
-# 5️⃣ Chi-Square Test of Independence
+## 🔗 Q5 — Chi-Square Test
 
-Analyzed relationship between:
+### Objective
 
-* Smoking Habit
-* Diabetes Status
+Determine whether smoking status and diabetes are related.
 
 ### Formula
 
-[
+\[
 \chi^2=
 \sum
 \frac{(O-E)^2}{E}
-]
+\]
 
-### Python Code
+### Results
 
-```python
-table = pd.crosstab(
-    df["smoking_status"],
-    df["diabetes"]
-)
+| Metric | Value |
+|----------|----------|
+| Chi-Square | 0.71 |
+| p-value | 0.701 |
 
-chi2_stat,p,dof,expected = chi2_contingency(table)
-```
+📌 **Interpretation:** Observed differences are likely due to random variation.
 
-### Conclusion
-
-Smoking habit and diabetes occurrence appear statistically independent.
+📌 **Conclusion:** No significant association exists between smoking status and diabetes prevalence.
 
 ---
 
-# 6️⃣ ANOVA Test
+## 📊 Q6 — ANOVA Test
 
-Compared BMI across:
+### Objective
 
-* Daily Exercise
-* Weekly Exercise
-* Rarely Exercise
-* Never Exercise
+Compare BMI among exercise groups.
+
+### Groups
+
+- Daily
+- Weekly
+- Rarely
+- Never
 
 ### Formula
 
-[
+\[
 F=
 \frac{\text{Between Group Variance}}
 {\text{Within Group Variance}}
-]
+\]
+
+### Results
+
+| Metric | Value |
+|----------|----------|
+| F-value | 0.87 |
+| p-value | 0.458 |
+| Critical Value | 2.62 |
 
 ### Python Code
 
 ```python
 from scipy.stats import f_oneway
-
-daily = df[df["exercise_frequency"]=="Daily"]["bmi"]
-weekly = df[df["exercise_frequency"]=="Weekly"]["bmi"]
-rarely = df[df["exercise_frequency"]=="Rarely"]["bmi"]
-never = df[df["exercise_frequency"]=="Never"]["bmi"]
 
 F,p = f_oneway(
     daily,
@@ -319,193 +304,166 @@ F,p = f_oneway(
     rarely,
     never
 )
-
-print(F,p)
 ```
 
-### Result
+📌 **Interpretation:** BMI differences among exercise groups are not statistically significant.
 
-| Metric  | Value |
-| ------- | ----- |
-| F-value | 0.87  |
-| p-value | 0.458 |
-
-### Insight
-
-Exercise frequency did not significantly influence BMI in the dataset.
+📌 **Conclusion:** Exercise frequency does not significantly affect BMI.
 
 ---
 
-# 7️⃣ Age Group Disease Analysis
+## 👥 Q7 — ANOVA Across Age Groups
 
-Investigated whether disease prevalence changes significantly across age groups.
+### Objective
 
-### Method
+Evaluate diabetes prevalence across age groups.
 
-ANOVA on age-group disease rates.
+### Results
 
-### Result
-
-| Metric  | Value |
-| ------- | ----- |
-| F-value | 1.50  |
+| Metric | Value |
+|----------|----------|
+| F-value | 1.50 |
 | p-value | 0.201 |
+| Critical Value | 2.39 |
 
-### Insight
+📌 **Interpretation:** Diabetes prevalence varies slightly but not significantly across age groups.
 
-Disease prevalence remains relatively consistent across age categories.
+📌 **Conclusion:** Age groups do not differ significantly in diabetes prevalence.
 
 ---
 
-# 8️⃣ Correlation & Covariance Analysis
+## 📈 Q8 — Correlation & Covariance Analysis
 
-Studied relationship between:
+### Objective
 
-* Age
-* BMI
+Analyze relationship between Age and BMI.
 
-### Correlation Formula
+### Formula
 
-[
+\[
 r=
 \frac{Cov(X,Y)}
-{\sigma_x \sigma_y}
-]
+{\sigma_x\sigma_y}
+\]
+
+### Results
+
+| Metric | Value |
+|----------|----------|
+| Correlation (r) | 0.109 |
+| Relationship | Very Weak Positive |
 
 ### Python Code
 
 ```python
-correlation = df["age"].corr(df["bmi"])
+correlation = df["Age"].corr(df["BMI"])
 
-covariance = df["age"].cov(df["bmi"])
+covariance = df["Age"].cov(df["BMI"])
 
 print(correlation)
 print(covariance)
 ```
 
-### Result
+📌 **Interpretation:** Age explains only about 1% of BMI variation.
 
-| Metric          | Value              |
-| --------------- | ------------------ |
-| Correlation (r) | 0.109              |
-| Relationship    | Very Weak Positive |
-
-### Insight
-
-Age shows almost no meaningful relationship with BMI.
+📌 **Conclusion:** Age is not a meaningful predictor of BMI.
 
 ---
 
 # 📊 Key Findings
 
-✔️ Smoking status showed no significant association with diabetes.
+✔️ Smoking status and diabetes prevalence were statistically independent.
 
-✔️ Exercise frequency did not significantly affect BMI.
+✔️ Exercise frequency showed no statistically significant effect on BMI.
 
-✔️ Male and female BMI values were statistically similar.
+✔️ Male and female BMI distributions were statistically similar.
 
-✔️ Age groups did not significantly differ in disease prevalence.
+✔️ Confidence intervals provided reliable population estimates.
 
-✔️ Confidence intervals provided reliable estimates of population characteristics.
+✔️ Diabetes prevalence did not significantly differ across age groups.
 
-✔️ Correlation between Age and BMI was extremely weak.
+✔️ Age and BMI exhibited only a very weak positive correlation.
 
-✔️ Hypothesis testing confirmed multiple healthcare assumptions using statistical evidence.
+✔️ Correlation analysis showed age explains only about 1% of BMI variation.
 
-✔️ p-value interpretation played a central role in decision making.
+✔️ Inferential statistics transformed healthcare data into actionable insights.
 
 ---
 
-# 📈 Sample Statistical Workflow
+# 🎯 Final Conclusion
 
-```python
-alpha = 0.05
+This project successfully applied Inferential Statistics and Hypothesis Testing techniques to a healthcare dataset containing 500 patient records.
 
-if p_value < alpha:
-    print("Reject H0")
-else:
-    print("Accept H0")
-```
+Through Chi-Square Tests, ANOVA, Confidence Intervals, Critical Value Analysis, p-value Interpretation, Independent Sample t-Tests, Correlation Analysis, and Covariance Analysis, meaningful insights were derived regarding healthcare outcomes and patient characteristics.
+
+The analysis demonstrated that:
+
+- Smoking status showed no significant relationship with diabetes prevalence.
+- Exercise frequency did not significantly affect BMI.
+- Male and female BMI levels were statistically similar.
+- Age groups displayed similar diabetes prevalence rates.
+- Confidence intervals produced reliable estimates of population parameters.
+- Age and BMI showed only a weak positive correlation.
+
+Overall, the project highlights how statistical methods convert healthcare data into evidence-based decisions that support research, healthcare planning, and analytical judgment.
 
 ---
 
 # 🚀 How to Run
 
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/Derivable-Judgement.git
-```
-
-### Install Dependencies
-
 ```bash
 pip install pandas numpy scipy matplotlib openpyxl
 ```
 
-### Run Notebook
+Open:
 
 ```bash
 jupyter notebook
 ```
 
-Open:
+Run:
 
 ```text
 Derivable_Judgement.ipynb
 ```
 
-Run all cells sequentially.
-
 ---
 
 # 🌟 Future Enhancements
 
-* Add Data Visualization Dashboard
-* Implement Logistic Regression
-* Perform Multiple Linear Regression
-* Add Machine Learning Predictions
-* Include Power Analysis
-* Create Interactive Streamlit Application
-* Expand Dataset Beyond 1000 Records
-* Add Advanced Statistical Modeling
+- Add Logistic Regression Analysis
+- Implement Multiple Linear Regression
+- Build Streamlit Dashboard
+- Add Predictive Healthcare Modeling
+- Expand Dataset Beyond 1000 Records
+- Include Advanced Statistical Testing
+- Add Interactive Visual Analytics
 
 ---
 
 # ✅ Submission Checklist
 
-✔️ Hypothesis Testing
-
-✔️ Confidence Interval Analysis
-
-✔️ Critical Value Interpretation
-
-✔️ p-value Analysis
-
-✔️ Chi-Square Test
-
-✔️ Independent t-Test
-
-✔️ ANOVA Test
-
-✔️ Correlation Analysis
-
-✔️ Covariance Analysis
-
-✔️ Statistical Conclusions
-
-✔️ Dataset Included
-
-✔️ Jupyter Notebook Included
-
-✔️ README Documentation Included
+- Hypothesis Testing
+- Confidence Intervals
+- Critical Values
+- p-value Analysis
+- Independent Sample t-Test
+- Chi-Square Test
+- ANOVA
+- Correlation Analysis
+- Covariance Analysis
+- Statistical Interpretations
+- Dataset Included
+- Jupyter Notebook Included
+- Theory Report Included
+- README Documentation Included
 
 ---
 
-# 👩‍💻 Shruti Bhawsar
+## 👩‍💻 Shruti Bhawsar
 
 📍 Ahmedabad, Gujarat, India
 
-### Statistical Thinking • Data-Driven Decisions • Evidence-Based Conclusions
+⭐ If you found this project helpful, give it a star and feel free to fork!
 
-⭐ If you found this project useful, consider giving it a star and contributing to future improvements.
+### 📊 Data-Driven Decisions · Statistical Thinking · Evidence-Based Conclusions

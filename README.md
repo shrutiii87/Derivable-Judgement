@@ -79,6 +79,20 @@ Derivable-Judgement/
 
 # 🛠️ Technologies Used
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-FF6B6B?style=for-the-badge&logo=scipy&logoColor=white)
+![Hypothesis_Testing](https://img.shields.io/badge/Hypothesis_Testing-6A5ACD?style=for-the-badge)
+![ANOVA](https://img.shields.io/badge/ANOVA-FF9800?style=for-the-badge)
+![Chi_Square](https://img.shields.io/badge/Chi--Square_Test-4CAF50?style=for-the-badge)
+![T_Test](https://img.shields.io/badge/T--Test-009688?style=for-the-badge)
+![Correlation](https://img.shields.io/badge/Correlation_Analysis-E91E63?style=for-the-badge)
+
 ## Python Libraries
 
 ```python

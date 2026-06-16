@@ -392,20 +392,11 @@ print(covariance)
 
 # 🎯 Final Conclusion
 
-This project successfully applied Inferential Statistics and Hypothesis Testing techniques to a healthcare dataset containing 500 patient records.
+Derivable Judgement successfully applied inferential statistics and hypothesis testing techniques to a healthcare dataset of 500 patient records. Statistical analyses including Chi-Square Test, ANOVA, Confidence Intervals, t-Test, Correlation, and Covariance were used to evaluate healthcare-related hypotheses.
 
-Through Chi-Square Tests, ANOVA, Confidence Intervals, Critical Value Analysis, p-value Interpretation, Independent Sample t-Tests, Correlation Analysis, and Covariance Analysis, meaningful insights were derived regarding healthcare outcomes and patient characteristics.
+The results showed that smoking status had no significant association with diabetes, exercise frequency did not significantly affect BMI, and male and female BMI levels were statistically similar. Additionally, age showed only a very weak relationship with BMI, while confidence intervals provided reliable estimates of population parameters.
 
-The analysis demonstrated that:
-
-- Smoking status showed no significant relationship with diabetes prevalence.
-- Exercise frequency did not significantly affect BMI.
-- Male and female BMI levels were statistically similar.
-- Age groups displayed similar diabetes prevalence rates.
-- Confidence intervals produced reliable estimates of population parameters.
-- Age and BMI showed only a weak positive correlation.
-
-Overall, the project highlights how statistical methods convert healthcare data into evidence-based decisions that support research, healthcare planning, and analytical judgment.
+Overall, the project demonstrates how statistical methods can transform healthcare data into evidence-based insights and support informed decision-making.
 
 ---
 

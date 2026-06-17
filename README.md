@@ -11,7 +11,7 @@ The entire analysis is implemented using **Python (Jupyter Notebook)** and suppo
 
 # 🎯 Objective
 
-<img width="600" height="546" alt="Boy_ What is the objective of the Derivable Judgement project_ - visual selection" src="https://github.com/user-attachments/assets/8982d7a1-d726-4b03-ae9c-8abfb9ddce4d" />
+<img width="1024" height="576" alt="WhatsApp Image 2026-06-17 at 10 23 40 AM" src="https://github.com/user-attachments/assets/75255168-e907-417a-9021-aaa366055640" />
 
 ---
 

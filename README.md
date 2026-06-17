@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Derivable%20Judgement&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Statistical%20Analysis%20%26%20Hypothesis%20Testing%20on%20Healthcare%20Data&descAlignY=60&descSize=20" />
-</div>
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Derivable%20Judgement&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Insight%20Storyteller&descAlignY=55&descSize=18" /> </div>
 
 
 # 📊 Derivable Judgement: Statistical Analysis & Hypothesis Testing on Healthcare Data

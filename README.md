@@ -50,25 +50,6 @@ Through statistical testing, the project demonstrates how data-driven decisions 
 
 ---
 
-# 🧩 Dataset Structure
-
-**AI-Generated Dataset · 500 Records**
-
-| Column Name | Description |
-|------------|-------------|
-| Patient_ID | Unique Patient Identifier |
-| Age | Age of Patient |
-| Gender | Male / Female |
-| Weight | Weight in Kilograms |
-| BMI | Body Mass Index |
-| Blood_Pressure | Blood Pressure Reading |
-| Smoking_Status | Smoker / Non-Smoker |
-| Exercise_Frequency | Daily / Weekly / Rarely / Never |
-| Diabetes | Yes / No |
-| Cholesterol | Cholesterol Level |
-
----
-
 # 🛠️ Tools Used
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

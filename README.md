@@ -13,7 +13,6 @@ The entire analysis is implemented using **Python (Jupyter Notebook)** and suppo
 | Field | Details |
 |---------|---------|
 | Title | Derivable Judgement: Statistical Analysis & Hypothesis Testing on Healthcare Data |
-| Duration | 4 Hours |
 | Type | Theory + Practical |
 | Domain | Healthcare Analytics |
 | Tools Used | Python · Excel |

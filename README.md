@@ -97,8 +97,41 @@ Through statistical testing, the project demonstrates how data-driven decisions 
 
 # Diagrams (PART :- A) Theory
 
-<img width="400" height="300" alt="— Q1" src="https://github.com/user-attachments/assets/1547f3ff-b9bd-4dee-8198-2a5f05210fa3" />
 
+## Q1. What is inferential statistics?
+   
+   <img width="400" height="300" alt="— Q1" src="https://github.com/user-attachments/assets/ba95dc0d-4660-4429-ba28-4e3f16b9ef12" />
+
+## Q2. What is hypothesis testing and its components?
+
+  <img width="400" height="300" alt="Q2" src="https://github.com/user-attachments/assets/dfb6f334-b4d1-4df2-b879-dd5a21c5e326" />
+  
+ ## Q3. Explain confidence interval and critical value.
+  
+   <img width="400" height="330" alt="Q3" src="https://github.com/user-attachments/assets/cfc34ac7-2fbd-4057-80be-b708ae1c9aa7" />
+
+ ## Q4. Define p-value.
+
+   <img width="400" height="300" alt="Q4" src="https://github.com/user-attachments/assets/5cbbbe69-ad99-4646-9e90-34e77e3b0b37" />
+
+ ## Q5. Differentiate Type I and Type II errors.
+
+   <img width="400" height="300" alt="Q5" src="https://github.com/user-attachments/assets/eb252f7f-186e-49db-b70e-29c159e61557" />
+
+
+ ## Q6. Brief descriptions of z-test, t-test, chi-square test, and ANOVA test.
+
+   <img width="430" height="300" alt="Q6" src="https://github.com/user-attachments/assets/96028120-3a79-41c6-9fcd-8ada1666d09e" />
+
+
+ ## Q7. What is Covariance?
+
+   <img width="400" height="300" alt="Q7" src="https://github.com/user-attachments/assets/be06dded-dfa6-4a83-9d8b-75164021e158" />
+
+
+ ## Q8. What is Correlation?
+
+   <img width="400" height="300" alt="Q8" src="https://github.com/user-attachments/assets/34855111-07ce-4f1f-8ba2-d9c02df78d5f" />
 
 ---
 

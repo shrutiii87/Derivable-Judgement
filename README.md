@@ -6,17 +6,6 @@ The project explores statistical concepts including **Hypothesis Testing, Confid
 
 The entire analysis is implemented using **Python (Jupyter Notebook)** and supported with detailed interpretations, statistical calculations, visualizations, and evidence-based conclusions.
 
----
-
-# 📋 Project Details
-
-| Field | Details |
-|---------|---------|
-| Title | Derivable Judgement: Statistical Analysis & Hypothesis Testing on Healthcare Data |
-| Type | Theory + Practical |
-| Domain | Healthcare Analytics |
-| Tools Used | Python · Excel |
-| Libraries | Pandas · NumPy · SciPy · Matplotlib |
 
 ---
 

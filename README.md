@@ -24,7 +24,7 @@ The entire analysis is implemented using **Python (Jupyter Notebook)** and suppo
 | 📓 Derivable_Judgement.ipynb | Complete statistical analysis notebook |
 | 📊 health_records_dataset_500.xlsx | Healthcare dataset containing 500 records |
 | 📄 Derivable_Judgement_Theory.pdf | Theoretical explanations and formulas |
-| 📄 Statistical_Insights_Report.docx | Detailed project interpretations |
+| 🖼️ Diagrams | Diagrams of the theory part |
 | 📘 README.md | Project documentation |
 
 ---

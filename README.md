@@ -419,19 +419,6 @@ Run:
 ```text
 Derivable_Judgement.ipynb
 ```
-
----
-
-# 🌟 Future Enhancements
-
-- Add Logistic Regression Analysis
-- Implement Multiple Linear Regression
-- Build Streamlit Dashboard
-- Add Predictive Healthcare Modeling
-- Expand Dataset Beyond 1000 Records
-- Include Advanced Statistical Testing
-- Add Interactive Visual Analytics
-
 ---
 
 # ✅ Submission Checklist

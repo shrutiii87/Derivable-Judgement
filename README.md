@@ -17,7 +17,7 @@ The entire analysis is implemented using **Python (Jupyter Notebook)** and suppo
 
 ---
 
-# 🗂️ Project Files
+## 🗂️ Project Files
 
 | File | Description |
 |---------|---------|
@@ -51,6 +51,11 @@ The entire analysis is implemented using **Python (Jupyter Notebook)** and suppo
 [![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](YOUR_LINK_HERE)
 
 📹 Click the badge above to watch the complete project demonstration.
+
+---
+# PART :- B (GIF)
+
+<img width="800" height="420" alt="Derivable_judgement_GIF" src="https://github.com/user-attachments/assets/a9b8adff-a3d7-4a5a-b08e-a28d0f11edce" />
 
 ---
 

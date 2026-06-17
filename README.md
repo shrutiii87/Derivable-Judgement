@@ -317,7 +317,7 @@ F,p = f_oneway(
 
 ---
 
-## 👥 Q7 — ANOVA Across Age Groups
+## 👥 — ANOVA Across Age Groups
 
 ### Objective
 
@@ -337,7 +337,7 @@ Evaluate diabetes prevalence across age groups.
 
 ---
 
-## 📈 Q8 — Correlation & Covariance Analysis
+## 📈 Q7 — Correlation & Covariance Analysis
 
 ### Objective
 

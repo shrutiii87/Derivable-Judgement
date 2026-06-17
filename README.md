@@ -11,19 +11,7 @@ The entire analysis is implemented using **Python (Jupyter Notebook)** and suppo
 
 # 🎯 Objective
 
-Imagine working as a **Healthcare Data Analyst** for a public health research organization.
-
-The objective of this project is to analyze healthcare records and apply inferential statistical methods to answer important healthcare questions.
-
-The project investigates:
-
-- Whether smoking status influences diabetes prevalence.
-- Whether exercise frequency impacts BMI.
-- Whether male and female patients differ significantly in BMI.
-- Whether age groups differ in diabetes prevalence.
-- Whether age and BMI are related.
-
-Through statistical testing, the project demonstrates how data-driven decisions can be made using scientific evidence rather than assumptions.
+<img width="600" height="546" alt="Boy_ What is the objective of the Derivable Judgement project_ - visual selection" src="https://github.com/user-attachments/assets/8982d7a1-d726-4b03-ae9c-8abfb9ddce4d" />
 
 ---
 

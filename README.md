@@ -97,7 +97,7 @@ Through statistical testing, the project demonstrates how data-driven decisions 
 
 # Diagrams (PART :- A) Theory
 
-<img width="400" height="400" alt="— Q1" src="https://github.com/user-attachments/assets/1547f3ff-b9bd-4dee-8198-2a5f05210fa3" />
+<img width="400" height="350" alt="— Q1" src="https://github.com/user-attachments/assets/1547f3ff-b9bd-4dee-8198-2a5f05210fa3" />
 
 
 ---

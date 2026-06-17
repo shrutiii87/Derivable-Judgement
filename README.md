@@ -53,14 +53,19 @@ The entire analysis is implemented using **Python (Jupyter Notebook)** and suppo
 📹 Click the badge above to watch the complete project demonstration.
 
 ---
-# PART :- B (GIF)
+### 🎬 PART :- A (GIF)
+---
+
+<img width="800" height="420" alt="Derivable_judgement_Theory_GIF" src="https://github.com/user-attachments/assets/03fb43dd-1880-4909-a77e-0cfbc0fb051b" />
+
+---
+### 🎬 PART :- B (GIF)
+---
 
 <img width="800" height="420" alt="Derivable_judgement_GIF" src="https://github.com/user-attachments/assets/a9b8adff-a3d7-4a5a-b08e-a28d0f11edce" />
 
 ---
-
-# Diagrams (PART :- A) Theory
-
+## 🖼️ Diagrams (PART :- A) Theory
 
 ## Q1. What is inferential statistics?
    

@@ -95,9 +95,6 @@ Through statistical testing, the project demonstrates how data-driven decisions 
 
 ---
 
-<img width="960" height="540" alt="Screenshot 2026-06-16 213116" src="https://github.com/user-attachments/assets/72d9ef4a-d71e-4f0a-a253-d6c0e898b9ac" />
-
-
 ---
 
 # 📗 Statistical Topics Covered
